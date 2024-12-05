@@ -1,2 +1,3 @@
 # repo-softwareII
-ddsadsadsadsada
+
+Repo de prueba para cacharrear con github desktop
